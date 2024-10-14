@@ -5,14 +5,7 @@
         "no-console": {
             "severity": "warning",
             "options": ["debug", "info", "log","trace"],
-            "semicolon": [true],
-            "indent": [true, "spaces", 4],
-            "quote-style": [true, "single"],
-            "no-console": [false],
-            "no-unused-variable": [true, "allow-unused-parameters"],
-            "interface-name": [false],
-            "no-empty-interface": [false],
-            "no-var-requires": [false]
+            "semicolon": [true]
         }
     },
     "jsrules": {
