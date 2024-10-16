@@ -29,8 +29,6 @@ io.on("connection", (socket) => {
     })
 })
  
-
 server.listen(serverConfig.PORT, () => {
     console.log(`server is up at ${serverConfig.PORT}`);
-    
 })
